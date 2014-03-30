@@ -62,6 +62,7 @@ When adding signatures, please use the following patterns:
 ### [The Iron Yard](http://theironyard.com)
 
 * *[Mason Stewart](http://twitter.com/masondesu)*, Greenville, SC - Monday, March 17th, 2014
+* *[Eric Dodds](http://twitter.com/ericdodds)*, Greenville, SC - Sunday, March 30th, 2014
 * *[Jo Albright](http://twitter.com/joalbright)*, Atlanta, GA - Saturday, March 29th, 2014
 * *[Roy Schmidt](http://twitter.com/cleasto)*, Greenville, SC - Saturday, March 29th, 2014
 * *[Sally Kingston](http://twitter.com/houserulessally)*, Charleston, SC - Sunday, March 30th, 2014

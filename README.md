@@ -71,6 +71,7 @@ When adding signatures, please use the following patterns:
 * *[Shelby Switzer](http://twitter.com/switzerly)*, Atlanta, GA - Saturday, March 29th, 2014
 * *[Sarah Lodato](http://twitter.com/sarahbethlodato)*, Atlanta, GA - Sunday, March 30th, 2014
 * *[Matthew Keas](http://twitter.com/matthiasak)*, Houston, TX - Thursday, April 4th, 2014
+* *[Jesse Wolgamott](http://twitter.com/jwo)*, Houston, TX - Friday, April 4th, 2014
 
 <!-- If you are the first person to sign this as an individual not associated with a company, please delete this line and uncomment the next line. See signature format details in the previous comment. -->
 <!-- ### Individual Signatures -->
